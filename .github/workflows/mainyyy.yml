@@ -1,4 +1,4 @@
-name: Check Microsoft E5 Expiry 09
+name: Check Microsoft E5 Expiry 11
 
 on:
   schedule:
